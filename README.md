@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pancholi22
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on Business central and Power-Bi.
-- 📫 pamcholipranav9036@gmail.com
+- 📫 pancholipranav9036@gmail.com
 - 😄 Pronouns: Pancholi
 
 <!---
